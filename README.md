@@ -13,8 +13,6 @@ This project provides a graphical interface for running a local MITM (man-in-the
 
 ## 📁 Project Structure
 
-
-
 project-root/
 │
 ├── Mani.py              # Main GUI and proxy controller
